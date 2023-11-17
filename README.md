@@ -1,16 +1,29 @@
-### Hi there 👋
+<div align="center">
+<h1> Olá! Meu nome é Anderson Da Silva! </h1>
+ Bem vindo ao meu GitHub✌️!
+</div>
+<hr>
+<p>-🖥️ Cursando Análise e Desenvolvimento de Sistemas - IFPB <br>
+-💻 Apaixonado por Programação...
+</p>
+<hr>
 
-<!--
-**dogbardoDev/dogbardoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dogbardoDev&show_icons=true&theme=radical" alt="Anderson Silva GitHub stats" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dogbardoDev&theme=radical" alt="Anderson Silva Top Langs" width="400">
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Minhas Habilidades 💾
+
+<div style="display: inline_block">
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)" />
+  <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)" />
+  <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-FCC624?style=for-the-badge&logo=github&logoColor=black" />
+</div><br/>
+
+
+## Meus Contatos 📫
+<a href = "mailto:anderson.ss1090@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/anderson.ss.dog" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
