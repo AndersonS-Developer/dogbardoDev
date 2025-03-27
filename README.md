@@ -18,7 +18,7 @@
 
 <div style="display: inline_block">
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)" />
-  <img align="center" alt="MongoDB" src="https://https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=MongoDB&logoColor=Green" />
+  <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=MongoDB&logoColor=Green" />
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)" />
   <img align="center" alt="SQL" src="https://img.shields.io/badge/SQL-white?style=for-the-badge&logo=MySQL&logoColor=blue" />
   <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
