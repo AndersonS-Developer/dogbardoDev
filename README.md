@@ -9,8 +9,8 @@
 <hr>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dogbardoDev&show_icons=true&theme=radical" alt="Anderson Silva GitHub stats" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dogbardoDev&theme=radical" alt="Anderson Silva Top Langs" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=AndersonS-Developer&show_icons=true&theme=radical" alt="Anderson Silva GitHub stats" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonS-Developer&theme=radical" alt="Anderson Silva Top Langs" width="400">
 </div>
 
 
